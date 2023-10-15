@@ -1,0 +1,11 @@
+com\edilando\todolist\task\TaskController.class
+com\edilando\todolist\controller\MinhaPrimeiraController.class
+com\edilando\todolist\utils\Utils.class
+com\edilando\todolist\errors\ExceptionHandlerController.class
+com\edilando\todolist\user\IUserRepository.class
+com\edilando\todolist\user\UserController.class
+com\edilando\todolist\user\UserModel.class
+com\edilando\todolist\task\TaskModel.class
+com\edilando\todolist\TodolistApplication.class
+com\edilando\todolist\task\ITaskRepository.class
+com\edilando\todolist\filter\FilterTaskAuth.class
